@@ -1,0 +1,54 @@
+﻿C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\noLight_ps.hlsl(15,9-74): warning X3206: implicit truncation of vector type
+  compilation object save succeeded; see C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\x64\Debug\noLight_ps.cso
+  
+C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\Pixel.hlsl(30,9-74): warning X3206: implicit truncation of vector type
+C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\Pixel.hlsl(43,8-79): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\x64\Debug\Pixel.cso
+  compilation object save succeeded; see C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\x64\Debug\skybox_ps.cso
+  compilation object save succeeded; see C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\x64\Debug\skybox_vs.cso
+C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\Vertex.hlsl(31,2-74): warning X3206: implicit truncation of vector type
+C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\Vertex.hlsl(32,9-45): warning X3206: implicit truncation of vector type
+C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\Vertex.hlsl(33,2-62): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\x64\Debug\Vertex.cso
+  Camera.cpp
+  CollisionManager.cpp
+  Colour.cpp
+  Game.cpp
+  GameObject.cpp
+  Graphics.cpp
+  Input.cpp
+  Light.cpp
+  Map2.cpp
+  Mesh.cpp
+C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\Mesh.cpp(10,79): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\Mesh.cpp(12,68): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  Model.cpp
+C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\Model.cpp(253,98): warning C4244: 'argument': conversion from 'ai_real' to 'BYTE', possible loss of data
+C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\Model.cpp(253,81): warning C4244: 'argument': conversion from 'ai_real' to 'BYTE', possible loss of data
+C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\Model.cpp(253,64): warning C4244: 'argument': conversion from 'ai_real' to 'BYTE', possible loss of data
+  NPC.cpp
+  Player.cpp
+  Shaders.cpp
+  Skybox2.cpp
+  Terrain.cpp
+C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\Terrain.cpp(94,58): warning C4244: 'argument': conversion from 'float' to 'BYTE', possible loss of data
+C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\Terrain.cpp(94,49): warning C4244: 'argument': conversion from 'float' to 'BYTE', possible loss of data
+  Texture.cpp
+  Timer.cpp
+  Transform.cpp
+  Window.cpp
+  Generating Code...
+  Compiling...
+  WinMain.cpp
+  Generating Code...
+DirectXTK.lib(CommonStates.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK.lib(CommonStates.obj)' or at 'C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\x64\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK.lib(DDSTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK.lib(DDSTextureLoader.obj)' or at 'C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\x64\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK.lib(BinaryReader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK.lib(BinaryReader.obj)' or at 'C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\x64\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK.lib(pch.obj)' or at 'C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\x64\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK.lib(SpriteBatch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK.lib(SpriteBatch.obj)' or at 'C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\x64\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK.lib(SpriteFont.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK.lib(SpriteFont.obj)' or at 'C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\x64\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK.lib(VertexTypes.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK.lib(VertexTypes.obj)' or at 'C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\x64\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK.lib(WICTextureLoader.obj)' or at 'C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\x64\Debug\DirectXTK.pdb'; linking object as if no debug info
+  Daniel McCormick - Assignment.vcxproj -> C:\Users\Dan_9\Pictures\Portfoli\Daniel McCormick - Assignment\x64\Debug\Daniel McCormick - Assignment.exe
